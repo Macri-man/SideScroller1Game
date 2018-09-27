@@ -1,0 +1,1135 @@
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScrollerBP/Blueprints/hqdefault.uasset" 0
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScrollerBP/Blueprints/test.uasset" 1
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScrollerBP/Blueprints/Test2.uasset" 2
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 3
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas.uasset" 4
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/IdleFrames/IdleCycle1.uasset" 5
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/IdleFrames/IdleCycle2.uasset" 6
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/IdleFrames/IdleCycle3.uasset" 7
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/IdleFrames/IdleCycle4.uasset" 8
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/IdleFrames/IdleCycle5.uasset" 9
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/IdleFrames/IdleCycle6.uasset" 10
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/IdleFrames/IdleCycle7.uasset" 11
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/IdleFrames/IdleCycle8.uasset" 12
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/IdleAnimation.uasset" 13
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas.uasset" 14
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/RunFrames/RunCycle_1.uasset" 15
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/RunFrames/RunCycle_10.uasset" 16
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/RunFrames/RunCycle_11.uasset" 17
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/RunFrames/RunCycle_12.uasset" 18
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/RunFrames/RunCycle_13.uasset" 19
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/RunFrames/RunCycle_14.uasset" 20
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/RunFrames/RunCycle_15.uasset" 21
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/RunFrames/RunCycle_16.uasset" 22
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/RunFrames/RunCycle_2.uasset" 23
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/RunFrames/RunCycle_3.uasset" 24
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/RunFrames/RunCycle_4.uasset" 25
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/RunFrames/RunCycle_5.uasset" 26
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/RunFrames/RunCycle_6.uasset" 27
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/RunFrames/RunCycle_7.uasset" 28
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/RunFrames/RunCycle_8.uasset" 29
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/RunFrames/RunCycle_9.uasset" 30
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Standard/RunningAnimation.uasset" 31
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset" 32
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 33
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 34
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Switch__1_.uasset" 35
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Switch__1__Sprite.uasset" 36
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Textures/2DBackgroundTile.uasset" 37
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Materials/PrototypingSpriteMaterial.uasset" 38
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/PrototypingSprite.uasset" 39
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Switch__2_.uasset" 40
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Switch__2__Sprite.uasset" 41
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Saw.uasset" 42
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Saw_Sprite.uasset" 43
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Objects/Barrel__2_.uasset" 44
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Objects/Saw.uasset" 45
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Objects/Barrel__1_.uasset" 46
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Objects/DoorUnlocked.uasset" 47
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Objects/DoorLocked.uasset" 48
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Objects/Switch__2_.uasset" 49
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Objects/Box.uasset" 50
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Objects/Switch__1_.uasset" 51
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Objects/DoorOpen.uasset" 52
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/Tile__8_.uasset" 53
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/BGTile__4_.uasset" 54
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/Tile__1_.uasset" 55
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/Fence__1_.uasset" 56
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/Tile__9_.uasset" 57
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/BGTile__5_.uasset" 58
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/Tile__2_.uasset" 59
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/Fence__3_.uasset" 60
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/Tile__15_.uasset" 61
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/BGTile__7_.uasset" 62
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/Tile__14_.uasset" 63
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/Spike.uasset" 64
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/BGTile__6_.uasset" 65
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/Tile__3_.uasset" 66
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/Fence__2_.uasset" 67
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/Tile__6_.uasset" 68
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/BGTile__3_.uasset" 69
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/Tile__11_.uasset" 70
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/BGTile__2_.uasset" 71
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/Tile__10_.uasset" 72
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/Acid__2_.uasset" 73
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/Tile__7_.uasset" 74
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/Tile__12_.uasset" 75
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/Tile__5_.uasset" 76
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/Acid__1_.uasset" 77
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/Tile__4_.uasset" 78
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/BGTile__1_.uasset" 79
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/freescifiplatform/png/Tiles/Tile__13_.uasset" 80
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/13_vortex_spritesheet.uasset" 81
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/20_magicbubbles_spritesheet.uasset" 82
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet.uasset" 83
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_0.uasset" 84
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_1.uasset" 85
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_10.uasset" 86
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_11.uasset" 87
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_12.uasset" 88
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_13.uasset" 89
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_14.uasset" 90
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_15.uasset" 91
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_16.uasset" 92
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_17.uasset" 93
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_18.uasset" 94
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_19.uasset" 95
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_2.uasset" 96
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_20.uasset" 97
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_21.uasset" 98
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_22.uasset" 99
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_23.uasset" 100
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_24.uasset" 101
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_25.uasset" 102
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_26.uasset" 103
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_27.uasset" 104
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_28.uasset" 105
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_29.uasset" 106
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_3.uasset" 107
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_30.uasset" 108
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_31.uasset" 109
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_32.uasset" 110
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_33.uasset" 111
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_34.uasset" 112
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_35.uasset" 113
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_36.uasset" 114
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_37.uasset" 115
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_38.uasset" 116
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_39.uasset" 117
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_4.uasset" 118
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_40.uasset" 119
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_41.uasset" 120
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_42.uasset" 121
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_43.uasset" 122
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_44.uasset" 123
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_45.uasset" 124
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_46.uasset" 125
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_47.uasset" 126
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_48.uasset" 127
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_49.uasset" 128
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_5.uasset" 129
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_50.uasset" 130
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_51.uasset" 131
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_52.uasset" 132
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_53.uasset" 133
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_54.uasset" 134
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_55.uasset" 135
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_56.uasset" 136
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_57.uasset" 137
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_58.uasset" 138
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_59.uasset" 139
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_6.uasset" 140
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_60.uasset" 141
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_61.uasset" 142
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_62.uasset" 143
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_63.uasset" 144
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_64.uasset" 145
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_65.uasset" 146
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_66.uasset" 147
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_67.uasset" 148
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_68.uasset" 149
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_69.uasset" 150
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_7.uasset" 151
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_70.uasset" 152
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_71.uasset" 153
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_72.uasset" 154
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_73.uasset" 155
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_74.uasset" 156
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_75.uasset" 157
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_76.uasset" 158
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_77.uasset" 159
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_78.uasset" 160
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_79.uasset" 161
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_8.uasset" 162
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_80.uasset" 163
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_81.uasset" 164
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_82.uasset" 165
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_83.uasset" 166
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_84.uasset" 167
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_85.uasset" 168
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_86.uasset" 169
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_87.uasset" 170
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_88.uasset" 171
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_89.uasset" 172
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_9.uasset" 173
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/17_felspell_spritesheet_Sprite_90.uasset" 174
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/FellSpell.uasset" 175
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/3_bluefire_spritesheet.uasset" 176
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet.uasset" 177
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_0.uasset" 178
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_1.uasset" 179
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_10.uasset" 180
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_11.uasset" 181
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_12.uasset" 182
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_13.uasset" 183
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_14.uasset" 184
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_15.uasset" 185
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_16.uasset" 186
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_17.uasset" 187
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_18.uasset" 188
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_19.uasset" 189
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_2.uasset" 190
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_20.uasset" 191
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_21.uasset" 192
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_22.uasset" 193
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_23.uasset" 194
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_24.uasset" 195
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_25.uasset" 196
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_26.uasset" 197
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_27.uasset" 198
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_28.uasset" 199
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_29.uasset" 200
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_3.uasset" 201
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_30.uasset" 202
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_31.uasset" 203
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_32.uasset" 204
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_33.uasset" 205
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_34.uasset" 206
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_35.uasset" 207
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_36.uasset" 208
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_37.uasset" 209
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_38.uasset" 210
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_39.uasset" 211
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_4.uasset" 212
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_40.uasset" 213
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_41.uasset" 214
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_42.uasset" 215
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_43.uasset" 216
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_44.uasset" 217
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_45.uasset" 218
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_46.uasset" 219
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_47.uasset" 220
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_48.uasset" 221
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_49.uasset" 222
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_5.uasset" 223
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_50.uasset" 224
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_51.uasset" 225
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_52.uasset" 226
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_53.uasset" 227
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_54.uasset" 228
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_55.uasset" 229
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_56.uasset" 230
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_57.uasset" 231
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_58.uasset" 232
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_59.uasset" 233
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_6.uasset" 234
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_60.uasset" 235
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_7.uasset" 236
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_8.uasset" 237
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/12_nebula_spritesheet_Sprite_9.uasset" 238
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/Nebula.uasset" 239
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet.uasset" 240
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_61.uasset" 241
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet.uasset" 242
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_0.uasset" 243
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_1.uasset" 244
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_10.uasset" 245
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_11.uasset" 246
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_12.uasset" 247
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_13.uasset" 248
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_14.uasset" 249
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_15.uasset" 250
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_16.uasset" 251
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_17.uasset" 252
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_18.uasset" 253
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_19.uasset" 254
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_2.uasset" 255
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_20.uasset" 256
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_21.uasset" 257
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_22.uasset" 258
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_23.uasset" 259
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_24.uasset" 260
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_25.uasset" 261
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_26.uasset" 262
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_27.uasset" 263
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_28.uasset" 264
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_29.uasset" 265
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_3.uasset" 266
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_30.uasset" 267
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_31.uasset" 268
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_32.uasset" 269
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_33.uasset" 270
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_34.uasset" 271
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_35.uasset" 272
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_36.uasset" 273
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_37.uasset" 274
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_38.uasset" 275
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_39.uasset" 276
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_4.uasset" 277
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_40.uasset" 278
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_41.uasset" 279
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_42.uasset" 280
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_43.uasset" 281
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_44.uasset" 282
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_45.uasset" 283
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_46.uasset" 284
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_47.uasset" 285
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_48.uasset" 286
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_49.uasset" 287
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_5.uasset" 288
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_50.uasset" 289
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_51.uasset" 290
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_52.uasset" 291
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_53.uasset" 292
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_54.uasset" 293
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_55.uasset" 294
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_56.uasset" 295
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_57.uasset" 296
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_58.uasset" 297
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_59.uasset" 298
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_6.uasset" 299
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_60.uasset" 300
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_7.uasset" 301
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_8.uasset" 302
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/9_brightfire_spritesheet_Sprite_9.uasset" 303
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/BrightFire.uasset" 304
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_63.uasset" 305
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet.uasset" 306
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_1.uasset" 307
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_10.uasset" 308
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_11.uasset" 309
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_12.uasset" 310
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_13.uasset" 311
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_14.uasset" 312
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_15.uasset" 313
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_16.uasset" 314
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_17.uasset" 315
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_18.uasset" 316
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_19.uasset" 317
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_2.uasset" 318
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_20.uasset" 319
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_21.uasset" 320
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_22.uasset" 321
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_23.uasset" 322
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_24.uasset" 323
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_25.uasset" 324
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_26.uasset" 325
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_27.uasset" 326
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_28.uasset" 327
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_29.uasset" 328
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_3.uasset" 329
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_30.uasset" 330
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_31.uasset" 331
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_32.uasset" 332
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_33.uasset" 333
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_34.uasset" 334
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_35.uasset" 335
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_36.uasset" 336
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_37.uasset" 337
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_38.uasset" 338
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_39.uasset" 339
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_4.uasset" 340
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_40.uasset" 341
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_5.uasset" 342
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_6.uasset" 343
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_7.uasset" 344
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_8.uasset" 345
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/5_magickahit_spritesheet_Sprite_9.uasset" 346
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/MagicHit.uasset" 347
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet.uasset" 348
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_0.uasset" 349
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_1.uasset" 350
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_10.uasset" 351
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_11.uasset" 352
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_12.uasset" 353
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_13.uasset" 354
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_14.uasset" 355
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_15.uasset" 356
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_16.uasset" 357
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_17.uasset" 358
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_18.uasset" 359
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_19.uasset" 360
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_2.uasset" 361
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_20.uasset" 362
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_21.uasset" 363
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_22.uasset" 364
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_23.uasset" 365
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_24.uasset" 366
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_25.uasset" 367
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_26.uasset" 368
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_27.uasset" 369
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_28.uasset" 370
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_29.uasset" 371
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_3.uasset" 372
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_30.uasset" 373
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_31.uasset" 374
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_32.uasset" 375
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_33.uasset" 376
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_34.uasset" 377
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_35.uasset" 378
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_36.uasset" 379
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_37.uasset" 380
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_38.uasset" 381
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_39.uasset" 382
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_4.uasset" 383
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_40.uasset" 384
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_41.uasset" 385
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_42.uasset" 386
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_43.uasset" 387
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_44.uasset" 388
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_45.uasset" 389
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_46.uasset" 390
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_47.uasset" 391
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_48.uasset" 392
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_49.uasset" 393
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_5.uasset" 394
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_50.uasset" 395
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_51.uasset" 396
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_52.uasset" 397
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_53.uasset" 398
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_54.uasset" 399
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_55.uasset" 400
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_56.uasset" 401
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_57.uasset" 402
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_58.uasset" 403
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_59.uasset" 404
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_6.uasset" 405
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_60.uasset" 406
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_7.uasset" 407
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_8.uasset" 408
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/8_protectioncircle_spritesheet_Sprite_9.uasset" 409
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/ProtectCircle.uasset" 410
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/10_weaponhit_spritesheet.uasset" 411
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_0.uasset" 412
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_1.uasset" 413
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_10.uasset" 414
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_11.uasset" 415
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_12.uasset" 416
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_13.uasset" 417
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_14.uasset" 418
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_15.uasset" 419
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_16.uasset" 420
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_17.uasset" 421
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_18.uasset" 422
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_19.uasset" 423
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_2.uasset" 424
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_20.uasset" 425
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_21.uasset" 426
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_22.uasset" 427
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_23.uasset" 428
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_24.uasset" 429
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_25.uasset" 430
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_26.uasset" 431
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_27.uasset" 432
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_28.uasset" 433
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_29.uasset" 434
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_3.uasset" 435
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_30.uasset" 436
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_31.uasset" 437
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_32.uasset" 438
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_33.uasset" 439
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_34.uasset" 440
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_35.uasset" 441
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_36.uasset" 442
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_37.uasset" 443
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_38.uasset" 444
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_39.uasset" 445
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_4.uasset" 446
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_40.uasset" 447
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_41.uasset" 448
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_42.uasset" 449
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_43.uasset" 450
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_44.uasset" 451
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_45.uasset" 452
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_46.uasset" 453
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_47.uasset" 454
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_48.uasset" 455
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_49.uasset" 456
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_5.uasset" 457
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_50.uasset" 458
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_51.uasset" 459
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_52.uasset" 460
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_53.uasset" 461
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_54.uasset" 462
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_55.uasset" 463
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_56.uasset" 464
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_57.uasset" 465
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_58.uasset" 466
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_59.uasset" 467
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_6.uasset" 468
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_60.uasset" 469
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_7.uasset" 470
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_8.uasset" 471
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_9.uasset" 472
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/Fire.uasset" 473
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/15_loading_spritesheet.uasset" 474
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/2_magic8_spritesheet.uasset" 475
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/16_sunburn_spritesheet.uasset" 476
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/18_midnight_spritesheet.uasset" 477
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/4_casting_spritesheet.uasset" 478
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet.uasset" 479
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_0.uasset" 480
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_1.uasset" 481
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_10.uasset" 482
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_11.uasset" 483
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_12.uasset" 484
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_13.uasset" 485
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_14.uasset" 486
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_15.uasset" 487
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_16.uasset" 488
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_17.uasset" 489
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_18.uasset" 490
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_19.uasset" 491
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_2.uasset" 492
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_20.uasset" 493
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_21.uasset" 494
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_22.uasset" 495
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_23.uasset" 496
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_24.uasset" 497
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_25.uasset" 498
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_26.uasset" 499
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_27.uasset" 500
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_28.uasset" 501
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_29.uasset" 502
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_3.uasset" 503
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_30.uasset" 504
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_31.uasset" 505
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_32.uasset" 506
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_33.uasset" 507
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_34.uasset" 508
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_35.uasset" 509
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_36.uasset" 510
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_37.uasset" 511
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_38.uasset" 512
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_39.uasset" 513
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_4.uasset" 514
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_40.uasset" 515
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_41.uasset" 516
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_42.uasset" 517
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_43.uasset" 518
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_44.uasset" 519
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_45.uasset" 520
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_46.uasset" 521
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_47.uasset" 522
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_48.uasset" 523
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_49.uasset" 524
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_5.uasset" 525
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_50.uasset" 526
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_51.uasset" 527
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_52.uasset" 528
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_53.uasset" 529
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_54.uasset" 530
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_55.uasset" 531
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_56.uasset" 532
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_57.uasset" 533
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_58.uasset" 534
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_59.uasset" 535
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_6.uasset" 536
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_60.uasset" 537
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_61.uasset" 538
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_62.uasset" 539
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_63.uasset" 540
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_64.uasset" 541
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_65.uasset" 542
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_66.uasset" 543
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_67.uasset" 544
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_68.uasset" 545
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_69.uasset" 546
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_7.uasset" 547
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_70.uasset" 548
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_71.uasset" 549
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_72.uasset" 550
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_73.uasset" 551
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_74.uasset" 552
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_75.uasset" 553
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_76.uasset" 554
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_77.uasset" 555
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_78.uasset" 556
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_79.uasset" 557
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_8.uasset" 558
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_80.uasset" 559
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_81.uasset" 560
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_82.uasset" 561
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_83.uasset" 562
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_84.uasset" 563
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_85.uasset" 564
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/19_freezing_spritesheet_Sprite_9.uasset" 565
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/Freezing.uasset" 566
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/14_phantom_spritesheet.uasset" 567
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet.uasset" 568
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_1.uasset" 569
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_10.uasset" 570
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_11.uasset" 571
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_12.uasset" 572
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_13.uasset" 573
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_14.uasset" 574
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_15.uasset" 575
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_16.uasset" 576
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_17.uasset" 577
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_18.uasset" 578
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_19.uasset" 579
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_2.uasset" 580
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_20.uasset" 581
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_21.uasset" 582
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_22.uasset" 583
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_23.uasset" 584
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_24.uasset" 585
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_25.uasset" 586
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_26.uasset" 587
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_27.uasset" 588
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_28.uasset" 589
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_29.uasset" 590
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_3.uasset" 591
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_30.uasset" 592
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_31.uasset" 593
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_32.uasset" 594
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_33.uasset" 595
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_34.uasset" 596
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_35.uasset" 597
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_36.uasset" 598
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_37.uasset" 599
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_38.uasset" 600
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_39.uasset" 601
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_4.uasset" 602
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_40.uasset" 603
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_41.uasset" 604
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_42.uasset" 605
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_43.uasset" 606
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_44.uasset" 607
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_45.uasset" 608
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_5.uasset" 609
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_6.uasset" 610
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_7.uasset" 611
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_8.uasset" 612
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/6_flamelash_spritesheet_Sprite_9.uasset" 613
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/FlameLash.uasset" 614
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/cover.uasset" 615
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/11_fire_spritesheet_Sprite_62.uasset" 616
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/Kunai.uasset" 617
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpAttackNinja/Jump_Attack__000.uasset" 618
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpAttackNinja/Jump_Attack__000_Sprite.uasset" 619
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpAttackNinja/Jump_Attack__001.uasset" 620
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpAttackNinja/Jump_Attack__001_Sprite.uasset" 621
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpAttackNinja/Jump_Attack__002.uasset" 622
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpAttackNinja/Jump_Attack__002_Sprite.uasset" 623
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpAttackNinja/Jump_Attack__003.uasset" 624
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpAttackNinja/Jump_Attack__003_Sprite.uasset" 625
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpAttackNinja/Jump_Attack__004.uasset" 626
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpAttackNinja/Jump_Attack__004_Sprite.uasset" 627
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpAttackNinja/Jump_Attack__005.uasset" 628
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpAttackNinja/Jump_Attack__005_Sprite.uasset" 629
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpAttackNinja/Jump_Attack__006.uasset" 630
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpAttackNinja/Jump_Attack__006_Sprite.uasset" 631
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpAttackNinja/Jump_Attack__007.uasset" 632
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpAttackNinja/Jump_Attack__007_Sprite.uasset" 633
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpAttackNinja/Jump_Attack__008.uasset" 634
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpAttackNinja/Jump_Attack__008_Sprite.uasset" 635
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpAttackNinja/Jump_Attack__009.uasset" 636
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpAttackNinja/Jump_Attack__009_Sprite.uasset" 637
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpAttackNinja/JumpAttackNinja.uasset" 638
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/AttackNinja/Attack__000.uasset" 639
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/AttackNinja/Attack__000_Sprite.uasset" 640
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/AttackNinja/Attack__001.uasset" 641
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/AttackNinja/Attack__001_Sprite.uasset" 642
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/AttackNinja/Attack__002.uasset" 643
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/AttackNinja/Attack__002_Sprite.uasset" 644
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/AttackNinja/Attack__003.uasset" 645
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/AttackNinja/Attack__003_Sprite.uasset" 646
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/AttackNinja/Attack__004.uasset" 647
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/AttackNinja/Attack__004_Sprite.uasset" 648
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/AttackNinja/Attack__005.uasset" 649
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/AttackNinja/Attack__005_Sprite.uasset" 650
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/AttackNinja/Attack__006.uasset" 651
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/AttackNinja/Attack__006_Sprite.uasset" 652
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/AttackNinja/Attack__007.uasset" 653
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/AttackNinja/Attack__007_Sprite.uasset" 654
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/AttackNinja/Attack__008.uasset" 655
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/AttackNinja/Attack__008_Sprite.uasset" 656
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/AttackNinja/Attack__009.uasset" 657
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/AttackNinja/Attack__009_Sprite.uasset" 658
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/AttackNinja/AttackNinja.uasset" 659
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/SlideNinja/Slide__000.uasset" 660
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/SlideNinja/Slide__000_Sprite.uasset" 661
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/SlideNinja/Slide__001.uasset" 662
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/SlideNinja/Slide__001_Sprite.uasset" 663
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/SlideNinja/Slide__002.uasset" 664
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/SlideNinja/Slide__002_Sprite.uasset" 665
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/SlideNinja/Slide__003.uasset" 666
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/SlideNinja/Slide__003_Sprite.uasset" 667
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/SlideNinja/Slide__004.uasset" 668
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/SlideNinja/Slide__004_Sprite.uasset" 669
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/SlideNinja/Slide__005.uasset" 670
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/SlideNinja/Slide__005_Sprite.uasset" 671
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/SlideNinja/Slide__006.uasset" 672
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/SlideNinja/Slide__006_Sprite.uasset" 673
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/SlideNinja/Slide__007.uasset" 674
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/SlideNinja/Slide__007_Sprite.uasset" 675
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/SlideNinja/Slide__008.uasset" 676
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/SlideNinja/Slide__008_Sprite.uasset" 677
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/SlideNinja/Slide__009.uasset" 678
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/SlideNinja/Slide__009_Sprite.uasset" 679
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/SlideNinja/SlideNinja.uasset" 680
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ClimbNinja/Climb_001.uasset" 681
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ClimbNinja/Climb_003.uasset" 682
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ClimbNinja/Climb_007.uasset" 683
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ClimbNinja/Climb_005.uasset" 684
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ClimbNinja/Climb_009.uasset" 685
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ClimbNinja/Climb_000.uasset" 686
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ClimbNinja/Climb_002.uasset" 687
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ClimbNinja/Climb_006.uasset" 688
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ClimbNinja/Climb_004.uasset" 689
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ClimbNinja/Climb_008.uasset" 690
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/GlideNinja/Glide_003.uasset" 691
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/GlideNinja/Glide_001.uasset" 692
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/GlideNinja/Glide_005.uasset" 693
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/GlideNinja/Glide_009.uasset" 694
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/GlideNinja/Glide_007.uasset" 695
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/GlideNinja/Glide_002.uasset" 696
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/GlideNinja/Glide_000.uasset" 697
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/GlideNinja/Glide_004.uasset" 698
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/GlideNinja/Glide_008.uasset" 699
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/GlideNinja/Glide_006.uasset" 700
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpThrowNinja/Jump_Throw__000.uasset" 701
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpThrowNinja/Jump_Throw__000_Sprite.uasset" 702
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpThrowNinja/Jump_Throw__001.uasset" 703
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpThrowNinja/Jump_Throw__001_Sprite.uasset" 704
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpThrowNinja/Jump_Throw__002.uasset" 705
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpThrowNinja/Jump_Throw__002_Sprite.uasset" 706
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpThrowNinja/Jump_Throw__003.uasset" 707
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpThrowNinja/Jump_Throw__003_Sprite.uasset" 708
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpThrowNinja/Jump_Throw__004.uasset" 709
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpThrowNinja/Jump_Throw__004_Sprite.uasset" 710
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpThrowNinja/Jump_Throw__005.uasset" 711
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpThrowNinja/Jump_Throw__005_Sprite.uasset" 712
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpThrowNinja/Jump_Throw__006.uasset" 713
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpThrowNinja/Jump_Throw__006_Sprite.uasset" 714
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpThrowNinja/Jump_Throw__007.uasset" 715
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpThrowNinja/Jump_Throw__007_Sprite.uasset" 716
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpThrowNinja/Jump_Throw__008.uasset" 717
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpThrowNinja/Jump_Throw__008_Sprite.uasset" 718
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpThrowNinja/Jump_Throw__009.uasset" 719
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpThrowNinja/Jump_Throw__009_Sprite.uasset" 720
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpThrowNinja/JumpThrowNinja.uasset" 721
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/DirectionalGravity/Blueprints/GravityLogic/BP_GravityReceiver.uasset" 722
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/DirectionalGravity/Blueprints/Helpers/BP_MathHelpers.uasset" 723
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/DirectionalGravity/Blueprints/GravityLogic/BP_GravityVolumeBase.uasset" 724
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/DirectionalGravity/Blueprints/SceneObjects/BP_GravityVolumeBox.uasset" 725
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 726
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 727
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 728
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 729
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 730
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 731
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 732
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 733
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 734
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 735
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 736
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 737
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 738
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 739
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 740
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 741
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 742
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 743
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 744
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 745
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 746
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 747
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 748
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 749
+"../../../Engine/Content/EngineResources/Black.uasset" 750
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 751
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 752
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 753
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 754
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 755
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 756
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 757
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 758
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 759
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 760
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 761
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 762
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 763
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 764
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 765
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 766
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 767
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 768
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 769
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 770
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 771
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 772
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 773
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 774
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 775
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 776
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 777
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 778
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 779
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 780
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 781
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 782
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 783
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 784
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 785
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 786
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 787
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 788
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 789
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 790
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 791
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 792
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 793
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 794
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 795
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 796
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 797
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 798
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 799
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 800
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 801
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 802
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 803
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 804
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 805
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 806
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 807
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 808
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 809
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 810
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 811
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 812
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 813
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 814
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 815
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 816
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 817
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 818
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 819
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 820
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 821
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 822
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 823
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 824
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 825
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 826
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 827
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 828
+"../../../Engine/Content/BasicShapes/Cone.uasset" 829
+"../../../Engine/Content/BasicShapes/Cube.uasset" 830
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 831
+"../../../Engine/Content/BasicShapes/Plane.uasset" 832
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 833
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 834
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 835
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 836
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 837
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 838
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 839
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 840
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 841
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 842
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 843
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 844
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 845
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 846
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 847
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 848
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 849
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 850
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 851
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 852
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 853
+"../../../Engine/Content/EngineSounds/Master.uasset" 854
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 855
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 856
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 857
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 858
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 859
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 860
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 861
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 862
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 863
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 864
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 865
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 866
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 867
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 868
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 869
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 870
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet.uasset" 871
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_1.uasset" 872
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_10.uasset" 873
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_11.uasset" 874
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_12.uasset" 875
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_13.uasset" 876
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_14.uasset" 877
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_15.uasset" 878
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_16.uasset" 879
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_17.uasset" 880
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_18.uasset" 881
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_19.uasset" 882
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_2.uasset" 883
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_20.uasset" 884
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_21.uasset" 885
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_22.uasset" 886
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_23.uasset" 887
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_24.uasset" 888
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_25.uasset" 889
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_26.uasset" 890
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_27.uasset" 891
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_28.uasset" 892
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_29.uasset" 893
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_3.uasset" 894
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_30.uasset" 895
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_31.uasset" 896
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_32.uasset" 897
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_33.uasset" 898
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_34.uasset" 899
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_35.uasset" 900
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_36.uasset" 901
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_37.uasset" 902
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_38.uasset" 903
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_39.uasset" 904
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_4.uasset" 905
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_40.uasset" 906
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_41.uasset" 907
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_42.uasset" 908
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_43.uasset" 909
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_44.uasset" 910
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_45.uasset" 911
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_46.uasset" 912
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_47.uasset" 913
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_48.uasset" 914
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_49.uasset" 915
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_5.uasset" 916
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_50.uasset" 917
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_51.uasset" 918
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_52.uasset" 919
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_53.uasset" 920
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_54.uasset" 921
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_55.uasset" 922
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_56.uasset" 923
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_57.uasset" 924
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_58.uasset" 925
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_59.uasset" 926
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_6.uasset" 927
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_60.uasset" 928
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_61.uasset" 929
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_62.uasset" 930
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_63.uasset" 931
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_64.uasset" 932
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_65.uasset" 933
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_66.uasset" 934
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_67.uasset" 935
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_68.uasset" 936
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_69.uasset" 937
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_7.uasset" 938
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_70.uasset" 939
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_71.uasset" 940
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_72.uasset" 941
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_73.uasset" 942
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_74.uasset" 943
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_8.uasset" 944
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/1_magicspell_spritesheet_Sprite_9.uasset" 945
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/MagicSpell.uasset" 946
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScrollerBP/Blueprints/CheckPoints.uasset" 947
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScrollerBP/Blueprints/REspawnPoint.uasset" 948
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/AnimeEnum.uasset" 949
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/DeadNinja/Dead__000.uasset" 950
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/DeadNinja/Dead__000_Sprite.uasset" 951
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/DeadNinja/Dead__001.uasset" 952
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/DeadNinja/Dead__001_Sprite.uasset" 953
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/DeadNinja/Dead__002.uasset" 954
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/DeadNinja/Dead__002_Sprite.uasset" 955
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/DeadNinja/Dead__003.uasset" 956
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/DeadNinja/Dead__003_Sprite.uasset" 957
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/DeadNinja/Dead__004.uasset" 958
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/DeadNinja/Dead__004_Sprite.uasset" 959
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/DeadNinja/Dead__005.uasset" 960
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/DeadNinja/Dead__005_Sprite.uasset" 961
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/DeadNinja/Dead__006.uasset" 962
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/DeadNinja/Dead__006_Sprite.uasset" 963
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/DeadNinja/Dead__007.uasset" 964
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/DeadNinja/Dead__007_Sprite.uasset" 965
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/DeadNinja/Dead__008.uasset" 966
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/DeadNinja/Dead__008_Sprite.uasset" 967
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/DeadNinja/Dead__009.uasset" 968
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/DeadNinja/Dead__009_Sprite.uasset" 969
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/DeadNinja/DeadNinja.uasset" 970
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/IdleNinja/Idle__000.uasset" 971
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/IdleNinja/Idle__000_Sprite.uasset" 972
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/IdleNinja/Idle__001.uasset" 973
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/IdleNinja/Idle__001_Sprite.uasset" 974
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/IdleNinja/Idle__002.uasset" 975
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/IdleNinja/Idle__002_Sprite.uasset" 976
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/IdleNinja/Idle__003.uasset" 977
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/IdleNinja/Idle__003_Sprite.uasset" 978
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/IdleNinja/Idle__004.uasset" 979
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/IdleNinja/Idle__004_Sprite.uasset" 980
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/IdleNinja/Idle__005.uasset" 981
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/IdleNinja/Idle__005_Sprite.uasset" 982
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/IdleNinja/Idle__006.uasset" 983
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/IdleNinja/Idle__006_Sprite.uasset" 984
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/IdleNinja/Idle__007.uasset" 985
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/IdleNinja/Idle__007_Sprite.uasset" 986
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/IdleNinja/Idle__008.uasset" 987
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/IdleNinja/Idle__008_Sprite.uasset" 988
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/IdleNinja/Idle__009.uasset" 989
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/IdleNinja/Idle__009_Sprite.uasset" 990
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/IdleNinja/IdleNinja.uasset" 991
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpNinja/Jump__000.uasset" 992
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpNinja/Jump__000_Sprite.uasset" 993
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpNinja/Jump__001.uasset" 994
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpNinja/Jump__001_Sprite.uasset" 995
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpNinja/Jump__002.uasset" 996
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpNinja/Jump__002_Sprite.uasset" 997
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpNinja/Jump__003.uasset" 998
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpNinja/Jump__003_Sprite.uasset" 999
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpNinja/Jump__004.uasset" 1000
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpNinja/Jump__004_Sprite.uasset" 1001
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpNinja/Jump__005.uasset" 1002
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpNinja/Jump__005_Sprite.uasset" 1003
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpNinja/Jump__006.uasset" 1004
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpNinja/Jump__006_Sprite.uasset" 1005
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpNinja/Jump__007.uasset" 1006
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpNinja/Jump__007_Sprite.uasset" 1007
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpNinja/Jump__008.uasset" 1008
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpNinja/Jump__008_Sprite.uasset" 1009
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpNinja/Jump__009.uasset" 1010
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpNinja/Jump__009_Sprite.uasset" 1011
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/JumpNinja/JumpNinja.uasset" 1012
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/RunNinja/Run__000.uasset" 1013
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/RunNinja/Run__000_Sprite.uasset" 1014
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/RunNinja/Run__001.uasset" 1015
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/RunNinja/Run__001_Sprite.uasset" 1016
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/RunNinja/Run__002.uasset" 1017
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/RunNinja/Run__002_Sprite.uasset" 1018
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/RunNinja/Run__003.uasset" 1019
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/RunNinja/Run__003_Sprite.uasset" 1020
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/RunNinja/Run__004.uasset" 1021
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/RunNinja/Run__004_Sprite.uasset" 1022
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/RunNinja/Run__005.uasset" 1023
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/RunNinja/Run__005_Sprite.uasset" 1024
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/RunNinja/Run__006.uasset" 1025
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/RunNinja/Run__006_Sprite.uasset" 1026
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/RunNinja/Run__007.uasset" 1027
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/RunNinja/Run__007_Sprite.uasset" 1028
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/RunNinja/Run__008.uasset" 1029
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/RunNinja/Run__008_Sprite.uasset" 1030
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/RunNinja/Run__009.uasset" 1031
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/RunNinja/Run__009_Sprite.uasset" 1032
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/RunNinja/RunNinja.uasset" 1033
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ThrowNinja/Throw__000.uasset" 1034
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ThrowNinja/Throw__000_Sprite.uasset" 1035
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ThrowNinja/Throw__001.uasset" 1036
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ThrowNinja/Throw__001_Sprite.uasset" 1037
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ThrowNinja/Throw__002.uasset" 1038
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ThrowNinja/Throw__002_Sprite.uasset" 1039
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ThrowNinja/Throw__003.uasset" 1040
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ThrowNinja/Throw__003_Sprite.uasset" 1041
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ThrowNinja/Throw__004.uasset" 1042
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ThrowNinja/Throw__004_Sprite.uasset" 1043
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ThrowNinja/Throw__005.uasset" 1044
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ThrowNinja/Throw__005_Sprite.uasset" 1045
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ThrowNinja/Throw__006.uasset" 1046
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ThrowNinja/Throw__006_Sprite.uasset" 1047
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ThrowNinja/Throw__007.uasset" 1048
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ThrowNinja/Throw__007_Sprite.uasset" 1049
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ThrowNinja/Throw__008.uasset" 1050
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ThrowNinja/Throw__008_Sprite.uasset" 1051
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ThrowNinja/Throw__009.uasset" 1052
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ThrowNinja/Throw__009_Sprite.uasset" 1053
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ninja/ThrowNinja/ThrowNinja.uasset" 1054
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScrollerBP/Blueprints/HUD.uasset" 1055
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScrollerBP/Blueprints/2DNinja.uasset" 1056
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset" 1057
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScrollerBP/Blueprints/Points.uasset" 1058
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet.uasset" 1059
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_0.uasset" 1060
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_1.uasset" 1061
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_10.uasset" 1062
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_11.uasset" 1063
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_12.uasset" 1064
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_13.uasset" 1065
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_14.uasset" 1066
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_15.uasset" 1067
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_16.uasset" 1068
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_17.uasset" 1069
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_18.uasset" 1070
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_19.uasset" 1071
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_2.uasset" 1072
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_20.uasset" 1073
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_21.uasset" 1074
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_22.uasset" 1075
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_23.uasset" 1076
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_24.uasset" 1077
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_25.uasset" 1078
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_26.uasset" 1079
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_27.uasset" 1080
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_28.uasset" 1081
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_29.uasset" 1082
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_3.uasset" 1083
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_30.uasset" 1084
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_31.uasset" 1085
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_32.uasset" 1086
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_33.uasset" 1087
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_34.uasset" 1088
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_35.uasset" 1089
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_36.uasset" 1090
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_37.uasset" 1091
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_38.uasset" 1092
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_39.uasset" 1093
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_4.uasset" 1094
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_40.uasset" 1095
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_41.uasset" 1096
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_42.uasset" 1097
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_43.uasset" 1098
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_44.uasset" 1099
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_45.uasset" 1100
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_46.uasset" 1101
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_47.uasset" 1102
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_48.uasset" 1103
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_49.uasset" 1104
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_5.uasset" 1105
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_50.uasset" 1106
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_51.uasset" 1107
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_52.uasset" 1108
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_53.uasset" 1109
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_54.uasset" 1110
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_55.uasset" 1111
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_56.uasset" 1112
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_57.uasset" 1113
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_58.uasset" 1114
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_59.uasset" 1115
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_6.uasset" 1116
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_60.uasset" 1117
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_7.uasset" 1118
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_8.uasset" 1119
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/7_firespin_spritesheet_Sprite_9.uasset" 1120
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spritesheets/FireSpin.uasset" 1121
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScrollerBP/Blueprints/Portal.uasset" 1122
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spike.uasset" 1123
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Spike_Sprite.uasset" 1124
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScrollerBP/Blueprints/Spikes.uasset" 1125
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset" 1126
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 1127
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Textures/2DBackground.uasset" 1128
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Background_Sprite.uasset" 1129
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Textures/2DBackgroundBlockAtlas.uasset" 1130
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScroller/Sprites/Ledge.uasset" 1131
+"../../../../../../Macri-man/Documents/Unreal Projects/SideScroller1Game/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" 1132
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1133
+"../../../Engine/Content/Maps/Entry.umap" 1134
