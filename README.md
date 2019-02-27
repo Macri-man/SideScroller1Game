@@ -1,1 +1,1 @@
-# SideScroller1Game
+# SideScroller Game
